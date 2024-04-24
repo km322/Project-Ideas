@@ -5,6 +5,7 @@ A Repository for possible project ideas
 #### Handwritting into Latex. 
 - Kaggle: https://www.kaggle.com/datasets/aidapearson/ocr-data/data
 - Need at least 20 GB of storage for images and AI model
+- Create PyTorch data loader (Ketan's code from ds3)
 
 ### Project Idea #2:
 #### Turn receipt images into automized money tracker
